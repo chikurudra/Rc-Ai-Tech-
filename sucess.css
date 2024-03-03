@@ -1,11 +1,10 @@
 
 #card {
-    position: fixed;
+    position: static;
     top: 110px;
     width: 320px;
     display: block;
     margin: auto;
-    margin-left:290px ;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
 }
